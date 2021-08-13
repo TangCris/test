@@ -1,6 +1,3 @@
-#inlcude <stdio.h>
-
-int main(){
-printf("Hello World!");
-renturn 0;
-}
+#readme
+Welcome to my gary
+All my code support for free
