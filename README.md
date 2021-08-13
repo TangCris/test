@@ -1,2 +1,6 @@
-# test
-just my first learning
+#inlcude <stdio.h>
+
+int main(){
+printf("Hello World!");
+renturn 0;
+}
